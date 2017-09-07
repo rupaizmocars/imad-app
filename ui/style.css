@@ -20,3 +20,14 @@ body {
     height: 200px;
 }
 
+.container{
+
+max-width: 800px;
+margin: 0 auto;
+color: #2c2f40;
+font-family: sans-serif;
+padding-top: 75;
+padding-left: 22px;
+padding-right: 22px;
+                }
+
